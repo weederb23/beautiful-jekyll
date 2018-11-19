@@ -23,8 +23,8 @@ description: This site is designed as a landing page and hub for staying up to d
 
 # List of links in the navigation bar
 navbar-links:
+  More About Me: "aboutme"
   # CV: "CV"
-  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
