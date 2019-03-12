@@ -4,10 +4,11 @@ title: Academic History
 subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Previous Institutions:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Oregon State University, Corvallis, OR
+  - Degree:
+- Pacific University, Forest Grove, OR
 
 What else do you need?
 
