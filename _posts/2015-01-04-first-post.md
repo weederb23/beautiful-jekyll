@@ -4,4 +4,4 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Eventually this will contain something witty or insightful, but for now it's just a placeholder. Stay tuned and one day there might be something worth reading here!
