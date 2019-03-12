@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Benjamin Weeder - Personal Site
+title: Benjamin Weeder
 
 # Short description of your site
 description: This site is designed as a landing page and hub for staying up to date on my current work and interests.
@@ -23,7 +23,7 @@ description: This site is designed as a landing page and hub for staying up to d
 
 # List of links in the navigation bar
 navbar-links:
-  More About Me: "aboutme"
+  Academic History: "aboutme"
   # CV: "CV"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
